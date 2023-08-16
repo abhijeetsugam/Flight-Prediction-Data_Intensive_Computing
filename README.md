@@ -41,8 +41,7 @@ feature having 6 different airlines.
 Flight: Flight stores information regarding the plane's flight code. It is a categorical feature.
 Source City: City from which the flight takes off. It is a categorical feature having 6 unique 
 cities.
-Departure Time: This is a derived categorical feature obtained created by grouping time 
-periods into bins. It stores information about the departure time and have 6 unique time 
+Departure Time: This is a derived categorical feature obtained created by grouping periods into bins. It stores information about the departure time and have 6 unique time 
 labels.
 Stops: A categorical feature with 3 distinct values that stores the number of stops between 
 the source and destination cities.
